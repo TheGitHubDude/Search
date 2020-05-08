@@ -1,0 +1,187 @@
+<xml>
+    <page>
+        <title>
+            The First Document v4
+        </title>
+        <id>
+            0
+        </id>
+        <text>
+            the apple tree
+            [[The Second Document]]
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Second Document
+        </title>
+        <id>
+            1
+        </id>
+        <text>
+            cattle
+            [[The Third Document]]
+            [[The Fourth Document]]
+            [[The Fifth Document]]
+            [[The Sixth Document]]
+
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Third Document
+        </title>
+        <id>
+            2
+        </id>
+        <text>
+            cattle
+            [[The Seventh Document]]
+            [[The Eight Document]]
+            [[The Ninth Document]]
+            [[The Tenth Document]]
+        </text>
+    </page>
+    <page>
+        <title>
+            The Fourth Document
+        </title>
+        <id>
+            3
+        </id>
+        <text>
+            cattle
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Fifth Document
+        </title>
+        <id>
+            4
+        </id>
+        <text>
+            cattle
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Sixth Document
+        </title>
+        <id>
+            5
+        </id>
+        <text>
+            cattle
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Seventh Document
+        </title>
+        <id>
+            6
+        </id>
+        <text>
+            cattle
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Eight Document
+        </title>
+        <id>
+            7
+        </id>
+        <text>
+            cattle
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Ninth Document
+
+        </title>
+        <id>
+            8
+        </id>
+        <text>
+            cattle
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Tenth Document
+        </title>
+        <id>
+            9
+        </id>
+        <text>
+            cattle
+
+        </text>
+    </page>
+    <page>
+        <title>
+            The Eleventh Document
+        </title>
+        <id>
+            10
+        </id>
+        <text>
+            cattle
+        </text>
+    </page>
+    <page>
+        <title>
+            The Twelfth Document
+        </title>
+        <id>
+            11
+        </id>
+        <text>
+            cattle
+        </text>
+    </page>
+    <page>
+        <title>
+            The Thirteenth Document
+        </title>
+        <id>
+            12
+        </id>
+        <text>
+            cattle
+        </text>
+    </page>
+    <page>
+        <title>
+            The Fourteenth Document
+        </title>
+        <id>
+            13
+        </id>
+        <text>
+            cattle
+        </text>
+    </page>
+    <page>
+        <title>
+            The Fifteenth Document
+        </title>
+        <id>
+            14
+        </id>
+        <text>
+            cattle
+        </text>
+    </page>
+</xml>
